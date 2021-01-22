@@ -1,1 +1,1 @@
-# terminology_translation
+# Facilitating Terminology Translation with Target Lemma Annotations
